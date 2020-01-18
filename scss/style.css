@@ -368,7 +368,7 @@ button.primary_btn {
   display: none;
 }
 .navbar .nav .nav-item:hover .nav-link, .navbar .nav .nav-item.active .nav-link {
-  color: #efb6df;
+  color: #018793;
 }
 .navbar .nav .nav-item.submenu {
   position: relative;
@@ -3134,7 +3134,7 @@ h6 {
   transition: all 0.4s ease 0s;
 }
 .service_item:hover {
-  background: #5f30ff;
+  background: #16b6c4;
 }
 .service_item:hover h4,
 .service_item:hover p,
