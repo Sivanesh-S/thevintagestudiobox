@@ -3971,7 +3971,8 @@ h6 {
 /* Footer Area css
 ============================================================================================ */
 .footer_area {
-  background: #021017;
+  background: url("/img/live/banner/Background - Vintage - LS.jpg") bottom fixed;
+  background-size: cover;
   padding: 120px 0;
   position: relative;
 }
