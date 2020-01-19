@@ -2,14 +2,16 @@
 ============================================================================================ */
 
 .footer_area {
-    background: url("/img/live/banner/Background\ -\ Vintage\ -\ LS.jpg") bottom fixed ;
+    background: url("/img/live/banner/Background\ -\ Vintage\ -\ LS.jpg");
+    background-position: center;
     background-size: cover;
-    padding: 120px 0;
+    // padding: 120px 0;
     position: relative;
     @media (max-width: 1024px) {
         padding: 60px 0;
     }
-    .footer_logo {
+    .footer_logo img {
+        width: 100%;
         text-align: center;
     }
     .footer_social {

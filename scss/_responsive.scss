@@ -138,8 +138,6 @@
 	.footer_area {
 		padding-top: 80px !important;
 		padding-bottom: 80px !important;
-		background-image: none !important;
-		background-color: #fcf8ff;
 	}
 
 	/* Blog page Area css
@@ -192,7 +190,7 @@
 	/* End End Footer Area css
 	============================================================================================ */
 	.home_banner_area .banner_inner .home_left_img {
-		display: none;
+		width: 100%;
 	}
 	.header_area .navbar .primary_btn {
 		display: none;
@@ -293,7 +291,7 @@
 		min-height: 450px;
 	}
 	.home_banner_area .banner_inner .banner_content img {
-		display: none;
+		width: 100%;
 	}
 	.home_banner_area .banner_inner .banner_content h5 {
 		margin-top: 0px;
