@@ -73,7 +73,7 @@
             &:hover,
             &.active {
                 .nav-link {
-                    color: $primary-color2;
+                    color: $special-color;
                 }
             }
             &.submenu {
@@ -180,7 +180,7 @@
         .navbar{
             
             @media(max-width: 991px){
-                background: #8034c3;
+                background: $primary-color;
             }
         }
     }

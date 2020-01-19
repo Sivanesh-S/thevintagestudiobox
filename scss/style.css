@@ -368,7 +368,7 @@ button.primary_btn {
   display: none;
 }
 .navbar .nav .nav-item:hover .nav-link, .navbar .nav .nav-item.active .nav-link {
-  color: #018793;
+  color: #ffdb00;
 }
 .navbar .nav .nav-item.submenu {
   position: relative;
@@ -457,7 +457,7 @@ button.primary_btn {
 }
 @media (max-width: 991px) {
   .header_area.header_inner_page .navbar {
-    background: #8034c3;
+    background: #16b6c4;
   }
 }
 
@@ -3972,6 +3972,7 @@ h6 {
   background: url("/img/live/banner/Background - Vintage - LS.jpg");
   background-position: center;
   background-size: cover;
+  padding: 120px 0;
   position: relative;
 }
 @media (max-width: 1024px) {
