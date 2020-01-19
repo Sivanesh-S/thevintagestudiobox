@@ -1,0 +1,23 @@
+{
+  "name": "thevintagestudiobox",
+  "version": "1.0.0",
+  "description": "The Website for Photography and Filmers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sivanesh-S/thevintagestudiobox.git"
+  },
+  "author": "Sivanesh",
+  "homepage": "https://sivanesh-s.github.io/thevintagestudiobox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sivanesh-S/thevintagestudiobox/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
