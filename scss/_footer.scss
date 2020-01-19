@@ -10,9 +10,18 @@
     @media (max-width: 1024px) {
         padding: 60px 0;
     }
-    .footer_logo img {
-        width: 100%;
+    .footer_logo {
+        // width: 100%;
+        padding-top: 20px;
         text-align: center;
+
+    }
+    
+    .footer_logo img {
+        @media (max-width: 768px) {
+            width: 100%;
+        }
+
     }
     .footer_social {
         text-align: center;
