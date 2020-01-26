@@ -566,7 +566,7 @@ button.primary_btn {
   overflow: hidden;
   width: 100%;
   min-height: 450px;
-  background: url("/img/live/banner/Background - Vintage - LS.jpg") no-repeat right bottom;
+  background: url("../img/live/banner/Background - Vintage - LS.jpg") no-repeat right bottom;
   background-size: cover;
   z-index: 1;
 }
@@ -3969,7 +3969,7 @@ h6 {
 /* Footer Area css
 ============================================================================================ */
 .footer_area {
-  background: url("/img/live/banner/Background - Vintage - LS.jpg");
+  background: url("../img/live/banner/Background - Vintage - LS.jpg");
   background-position: center;
   background-size: cover;
   padding: 120px 0;
